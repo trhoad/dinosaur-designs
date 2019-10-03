@@ -25,12 +25,12 @@ nav {
 }
 
 nav ol {
-  color: none;
+  list-style-type: none;
 }
 
 nav a {
   color: #793284;
-  text-decoration:none;
+  text-decoration: none;
 }
 
 nav a:hover{
